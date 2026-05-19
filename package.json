@@ -1,0 +1,13 @@
+{
+  "name": "bg-removal-saas",
+  "version": "1.0.0",
+  "description": "Full Stack AI Background Removal SaaS App",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
