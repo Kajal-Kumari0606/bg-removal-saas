@@ -57,6 +57,12 @@ CLIPDROP_API_KEY=your_clipdrop_api_key
 
 Add your project screenshots here.
 
+
+## Live Demo
+
+Live Link: https://your-live-demo-link.vercel.app
+
+
 ## GitHub Repository
 
 GitHub: https://github.com/Kajal-Kumari0606/bg-removal-saas
