@@ -55,12 +55,14 @@ CLIPDROP_API_KEY=your_clipdrop_api_key
 
 ## Screenshots
 
-Add your project screenshots here.
-
-
-## Live Demo
-
-Live Link: https://your-live-demo-link.vercel.app
+<img width="2044" height="1272" alt="image" src="https://github.com/user-attachments/assets/0e948e8a-a6b8-4523-ace7-dd18979dc50d" />
+<img width="2038" height="1258" alt="image" src="https://github.com/user-attachments/assets/c3d200c3-f604-48bb-839c-2f0c66ac76fd" />
+<img width="2010" height="1276" alt="image" src="https://github.com/user-attachments/assets/07454d9c-cdda-456c-bbfb-ea81a3b04179" />
+<img width="1930" height="1254" alt="image" src="https://github.com/user-attachments/assets/67efe98c-920b-4c0d-852f-32533718839a" />
+<img width="1906" height="1278" alt="image" src="https://github.com/user-attachments/assets/14045ef1-041a-4010-a348-0e7faa628436" />
+<img width="1878" height="1256" alt="image" src="https://github.com/user-attachments/assets/b14bc50b-6b17-4828-a7eb-4f96133329c4" />
+<img width="1950" height="1236" alt="image" src="https://github.com/user-attachments/assets/7d09eb2d-332f-45a5-a7ba-d0629fbe1eec" />
+<img width="1956" height="1268" alt="image" src="https://github.com/user-attachments/assets/c168e076-b567-4e89-88a2-4c0731fb3913" />
 
 
 ## GitHub Repository
